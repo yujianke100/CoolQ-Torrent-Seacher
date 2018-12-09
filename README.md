@@ -22,3 +22,4 @@
 
 ### 开发：
 VS开解决方案就行。里面那个压缩包就是原版SDK，里面有帮助说明，可以参考。
+PS:public/CSharpPlugins内的.dll才是插件本体
