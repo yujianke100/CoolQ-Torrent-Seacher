@@ -1,0 +1,9 @@
+C:\Users\yujia\OneDrive\程序\QQ机器人\xyz.shinnshi.bt\Bin\xyz.shinnshi.bt.dll
+C:\Users\yujia\OneDrive\程序\QQ机器人\xyz.shinnshi.bt\Bin\xyz.shinnshi.bt.pdb
+C:\Users\yujia\OneDrive\程序\QQ机器人\xyz.shinnshi.bt\src\xyz.shinnshi.bt\obj\Debug\xyz.shinnshi.bt.csprojAssemblyReference.cache
+C:\Users\yujia\OneDrive\程序\QQ机器人\xyz.shinnshi.bt\src\xyz.shinnshi.bt\obj\Debug\Flexlive.CQP.CSharpPlugins.Demo.FormSettings.resources
+C:\Users\yujia\OneDrive\程序\QQ机器人\xyz.shinnshi.bt\src\xyz.shinnshi.bt\obj\Debug\xyz.shinnshi.bt.csproj.GenerateResource.cache
+C:\Users\yujia\OneDrive\程序\QQ机器人\xyz.shinnshi.bt\src\xyz.shinnshi.bt\obj\Debug\xyz.shinnshi.bt.csproj.CoreCompileInputs.cache
+C:\Users\yujia\OneDrive\程序\QQ机器人\xyz.shinnshi.bt\src\xyz.shinnshi.bt\obj\Debug\xyz.shinnshi.bt.csproj.CopyComplete
+C:\Users\yujia\OneDrive\程序\QQ机器人\xyz.shinnshi.bt\src\xyz.shinnshi.bt\obj\Debug\xyz.shinnshi.bt.dll
+C:\Users\yujia\OneDrive\程序\QQ机器人\xyz.shinnshi.bt\src\xyz.shinnshi.bt\obj\Debug\xyz.shinnshi.bt.pdb
