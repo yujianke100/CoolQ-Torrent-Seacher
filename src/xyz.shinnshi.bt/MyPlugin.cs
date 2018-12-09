@@ -93,7 +93,7 @@ namespace Flexlive.CQP.CSharpPlugins.Demo
                     CQ.SendPrivateMessage(fromQQ, "更改失败，请输入大于1小于15的数字。\n搜索条数已还原回5条。");
                 }
                 else {
-                    CQ.SendPrivateMessage(fromQQ, "搜索条数以更改为" + num + "条");
+                    CQ.SendPrivateMessage(fromQQ, "搜索条数已更改为" + num + "条");
                 }   
             }
             if (msg.Contains("%搜索"))
@@ -187,7 +187,7 @@ namespace Flexlive.CQP.CSharpPlugins.Demo
                 }
                 else
                 {
-                    CQ.SendGroupMessage(fromGroup, "搜索条数以更改为" + num + "条");
+                    CQ.SendGroupMessage(fromGroup, "搜索条数已更改为" + num + "条");
                 }
             }
             if (msg.Contains("%搜索"))
